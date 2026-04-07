@@ -1,2 +1,3 @@
-# emultron
-Gigatron emulator in Qt5
+# Emultron := Emulation(Gigatron)
+
+![Screenshot](screenshots/screenshot.png)

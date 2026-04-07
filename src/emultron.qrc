@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>../data/icons/png/exit.png</file>
+		<file>../data/icons/png/window_fullscreen.png</file>
+		<file>../data/icons/png/filenew.png</file>
+	</qresource>
+</RCC>
